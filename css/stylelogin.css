@@ -1,0 +1,13 @@
+.login-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 80%; 
+    max-width: 400px; 
+    text-align: center; 
+    margin-left: 35%;
+    margin-top: 5%;
+}.colorr{
+    color: #8d18de;
+}
